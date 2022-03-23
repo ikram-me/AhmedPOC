@@ -1,0 +1,44 @@
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.csproj.AssemblyReference.cache
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.AssemblyInfoInputs.cache
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.AssemblyInfo.cs
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.csproj.CoreCompileInputs.cache
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rihab.Beji\source\repos\ApiThree\obj\Debug\net5.0\ApiThree.MvcApplicationPartsAssemblyInfo.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\appsettings.Development.json
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\appsettings.json
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.exe
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.deps.json
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.runtimeconfig.json
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.runtimeconfig.dev.json
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ref\ApiThree.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\ApiThree.pdb
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\FileHelpers.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Humanizer.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Npgsql.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.AssemblyInfoInputs.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.AssemblyInfo.cs
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.csproj.CoreCompileInputs.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.MvcApplicationPartsAssemblyInfo.cs
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.MvcApplicationPartsAssemblyInfo.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\staticwebassets\ApiThree.StaticWebAssets.Manifest.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\staticwebassets\ApiThree.StaticWebAssets.xml
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\scopedcss\bundle\ApiThree.styles.css
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.RazorTargetAssemblyInfo.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.csproj.CopyComplete
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ref\ApiThree.dll
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.pdb
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.genruntimeconfig.cache
+D:\POC V1\v2\TeamPoc-main\ApiThree\obj\Debug\net5.0\ApiThree.csproj.AssemblyReference.cache
